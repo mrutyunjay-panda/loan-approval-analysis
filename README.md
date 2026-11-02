@@ -22,10 +22,11 @@ Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL (MySQL) | Power BI (DAX, KPI c
 - Weakest segment: low-income applicants (**57.4%**).
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Files
-- `notebook.ipynb`: data cleaning and EDA
-- `queries.sql`: SQL analysis
-- `loan_dashboard.pbix`: Power BI dashboard
-- `screenshots/`: dashboard images
+   - `loan_approved.csv`: dataset
+   - `Loan_approved.ipynb`: data cleaning and EDA (Python)
+   - `loan_approved_sql.sql`: SQL analysis
+   - `l_approved power Bi.pbix`: Power BI dashboard
+   - `Dashboard.png`: dashboard screenshot
